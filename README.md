@@ -1,0 +1,2 @@
+An enrichment-based method on prioritizing cancer genes based on subnetwork.
+This folder contains a reference implementation of the method proposed in "DriverSubNet: Discovery of cancer genes using neighbor subnetwork enrichment analysis of multi-omics data".
